@@ -1,15 +1,15 @@
 <template>
     <div>
-        <Component3 />
+        <Counter />
     </div>
 
 </template>
 
 <script>
-import Component3 from "./Component3.vue"
+import Counter from "./Counter.vue"
 export default {
     components: {
-        Component3
+        Counter
     }
 }
 </script>

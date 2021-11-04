@@ -1,15 +1,15 @@
 <template>
     <div>
-        <Component3 />
+        <Component4 />
     </div>
 
 </template>
 
 <script>
-import Component3 from "./Component3.vue"
+import Component4 from "./Component4.vue"
 export default {
     components: {
-        Component3
+        Component4
     }
 }
 </script>
