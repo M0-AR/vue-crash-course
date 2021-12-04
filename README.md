@@ -1,4 +1,4 @@
-# vue-crash-course
+# vuex-crash-course
 
 ## Project setup
 ```
